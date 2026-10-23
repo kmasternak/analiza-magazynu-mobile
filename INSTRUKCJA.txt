@@ -1,0 +1,1 @@
+Mobile 1.1: tabela jak na komputerze, poziome przewijanie w obrębie tabeli. Po 150 wierszy na porcję dla płynniejszego działania. Zaktualizuj pliki hostingu (nie usuwaj danych Safari). Po aktualizacji odśwież PWA. Wszystkie BOM i magazyny pozostają lokalne.\n

@@ -1,13 +1,11 @@
 {
-  "name": "Analiza magazynu projektu – Mobile",
+  "name": "Analiza magazynu Mobile",
   "short_name": "Analiza magazynu",
-  "description": "Lokalna analiza BOM i magazynu na iPhonie",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#101b2b",
-  "theme_color": "#101b2b",
-  "lang": "pl",
+  "background_color": "#0d1421",
+  "theme_color": "#111d2d",
   "icons": [
     {
       "src": "icon-192.png",
