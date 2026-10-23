@@ -1,0 +1,16 @@
+ANALIZA MAGAZYNU MOBILE 1.0 – PWA NA IPHONE
+
+Nie wymaga Apple Developer ani App Store.
+
+PUBLIKACJA (GitHub Pages):
+1. Utwórz konto GitHub (jeśli jeszcze go nie masz).
+2. Utwórz nowe repozytorium PUBLIC, np. analiza-magazynu-mobile.
+3. Prześlij WYŁĄCZNIE pliki z tego ZIP: index.html, sw.js, manifest.webmanifest, ikony i .nojekyll.
+4. W Settings > Pages wybierz Deploy from a branch, gałąź main, folder /(root). Zapisz.
+5. Po wdrożeniu wejdź na https://TWOJ_LOGIN.github.io/analiza-magazynu-mobile/ w Safari na iPhonie.
+6. Udostępnij > Dodaj do ekranu początkowego > Dodaj.
+7. Otwórz aplikację z ikony. Zaimportuj pliki z aplikacji Pliki.
+
+DANE: Nie przesyłaj na GitHub żadnych plików BOM, magazynów, raportów ani kopii zapasowych. Hosting przechowuje tylko kod aplikacji. Import jest lokalny, bez wysyłania plików na serwer. Projekty i magazyn główny zapisują się lokalnie w IndexedDB. Przy zmianie urządzenia użyj Kopia zapasowa / Przywróć kopię. Kopie mogą zawierać dane firmowe — zapisuj je wyłącznie lokalnie na iPhonie, nie na iCloud Drive, jeśli nie chcesz chmury.
+
+OGRANICZENIA: iPhone nie udostępnia stałego dostępu do plików w aplikacji Pliki, więc do odświeżenia trzeba wskazać zmieniony plik ponownie. iOS może wyczyścić dane witryny; wykonuj kopie zapasowe. Nie przetestowano na fizycznym iPhonie.
