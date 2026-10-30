@@ -1,1 +1,8 @@
-Mobile 1.1: tabela jak na komputerze, poziome przewijanie w obrębie tabeli. Po 150 wierszy na porcję dla płynniejszego działania. Zaktualizuj pliki hostingu (nie usuwaj danych Safari). Po aktualizacji odśwież PWA. Wszystkie BOM i magazyny pozostają lokalne.\n
+MaterialControl 4.9 na iPhone (PWA)
+
+1. Opublikuj wszystkie pliki razem na serwerze HTTPS (np. GitHub Pages).
+2. Otwórz stronę w Safari na iPhone.
+3. Udostępnij -> Dodaj do ekranu początkowego.
+4. Otwórz aplikację z ikony. Dane importowane są lokalnie; po pierwszym załadowaniu aplikacja może działać offline.
+
+UWAGA: Dane wcześniejszej wersji Mobile 1.1 nie są automatycznie przenoszone. Zaimportuj ponownie BOM, magazyny i schematy. Nie kasuj starej aplikacji przed zabezpieczeniem danych.

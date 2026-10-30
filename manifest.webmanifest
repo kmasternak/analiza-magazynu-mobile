@@ -1,10 +1,10 @@
 {
-  "name": "Analiza magazynu Mobile",
-  "short_name": "Analiza magazynu",
-  "start_url": "./",
+  "name": "MaterialControl 4.9 – Analiza magazynu projektu",
+  "short_name": "MaterialControl",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0d1421",
+  "background_color": "#111d2d",
   "theme_color": "#111d2d",
   "icons": [
     {
